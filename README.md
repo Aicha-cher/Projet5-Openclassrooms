@@ -11,6 +11,7 @@ Projet n°5 : "Segmentez des clients d'un site e-commerce"
 * Analyse des résultats et explicabilité
 * Optimisation des hyperparamètres
 * Visualisation des données
+
 Source des données : https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 ## Compétences évaluées
